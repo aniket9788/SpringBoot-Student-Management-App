@@ -14,6 +14,7 @@ Search Functionality: Easily search for students using keywords.
 
 
 Technology Stack---
+
 Backend: Spring Boot
 
 Database: MySQL
@@ -26,6 +27,7 @@ IDE: Eclipse
 
 
 Prerequisites---
+
 Before running this application, ensure you have the following installed:
 
 Java 8 or higher
