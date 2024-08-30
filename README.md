@@ -12,8 +12,8 @@ Delete Students: Remove students from the system.
 
 Search Functionality: Easily search for students using keywords.
 
-Technology Stack
 
+Technology Stack---
 Backend: Spring Boot
 
 Database: MySQL
@@ -24,8 +24,8 @@ Build Tool: Maven
 
 IDE: Eclipse
 
-Prerequisites
 
+Prerequisites---
 Before running this application, ensure you have the following installed:
 
 Java 8 or higher
